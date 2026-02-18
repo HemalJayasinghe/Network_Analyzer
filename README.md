@@ -1,4 +1,4 @@
-# Network Traffic Analyzer v1.0
+# Network Traffic Analyzer 
 
 Real-time network packet capture and analysis tool with threat detection.
 Monitors network traffic, identifies protocols, and detects suspicious patterns
@@ -145,3 +145,4 @@ Hemal Jayasinghe
 ## License
 
 MIT License - Educational use
+
