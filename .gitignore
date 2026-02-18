@@ -1,0 +1,24 @@
+**Type this:**
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Capture files
+*.pcap
+*.cap
+
+# Reports
+reports/
+*.html
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
